@@ -1,1 +1,16 @@
 # hexlet.github.io
+
+* [Комьюнити и медиа](categories/4292.md)
+* [С чего начать](categories/4293.md)
+* [Форматы обучения](categories/4295.md)
+* [text](categories/4302.md)
+* [text](categories/4303.md)
+* [text](categories/4305.md)
+* [text](categories/4307.md)
+* [text](categories/4308.md)
+* [text](categories/4309.md)
+* [text](categories/4312.md)
+* [text](categories/4313.md)
+* [text](categories/4314.md)
+* [text](categories/4315.md)
+* [text](categories/4316.md)
