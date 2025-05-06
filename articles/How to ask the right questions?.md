@@ -1,14 +1,4 @@
-[![](https://files.carrotquest.app/knowledge-bases-images/logos/64033/1726575914708-nb7xvabz.png)](/)
-
 [Перейти на сайт](https://ru.hexlet.io)
-
-![article image preview]()
-
-[Все статьи](/)
-
-[En](/category/4316)
-
-How to ask the right questions?
 
 # How to ask the right questions?
 
@@ -81,5 +71,3 @@ Reaction: Did the student try solving the problem on their own? Did they try deb
 During the learning process, it’s important not only to complete all the exercises but also to learn to solve problems on your own. This way, the absence of external help would not prevent you from successfully doing your job down the road. Some day students will join real-life projects, where not only will there be lots and lots of code, but this code will also be far more complicated. We prepare our students for this scenario right out of the gates. This is why we prefer providing hints and advice, as opposed to debugging and fixing students’ code by ourselves.
 
 How to put this question correctly: Within some tests, my code’s execution is interrupted. I debugged and found out that the cycle is performed several times and terminated after this, but I still can’t figure out why. Please help me figure this out! Here’s a link to the code review.
-
-👆 На этом пока всё
