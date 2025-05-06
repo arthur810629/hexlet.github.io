@@ -1,14 +1,4 @@
-[![](https://files.carrotquest.app/knowledge-bases-images/logos/64033/1726575914708-nb7xvabz.png)](/)
-
 [Перейти на сайт](https://ru.hexlet.io)
-
-![article image preview]()
-
-[Все статьи](/)
-
-[En](/category/4316)
-
-Support on Courses and Projects
 
 # Support on Courses and Projects
 
@@ -41,5 +31,3 @@ Who do I ask if I have a question regarding something not covered in the lesson?
 Ask it in [Slack](https://slack.hexlet.io/). Hexlet students and our programmer friends chat there, and they're happy to share their experiences or give advice.
 
 And, of course, you can email us at support@hexlet.io.
-
-👆 На этом пока всё
