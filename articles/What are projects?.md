@@ -1,14 +1,4 @@
-[![](https://files.carrotquest.app/knowledge-bases-images/logos/64033/1726575914708-nb7xvabz.png)](/)
-
 [Перейти на сайт](https://ru.hexlet.io)
-
-![article image preview]()
-
-[Все статьи](/)
-
-[En](/category/4316)
-
-What are projects?
 
 # What are projects?
 
@@ -21,5 +11,3 @@ For most [professions](https://hexlet.io/programs), the learning program include
 This all happens while learning is still ongoing - this way, new topics are learned much better and are reinforced through practice. Projects are the answer to *"why do I need this?"*.
 
 Each project becomes an addition to your portfolio. The source code is in your personal GitHub account, and you can show it to employers. A portfolio of completed projects is very important when hiring both experienced and novice developers. Many employers will look at GitHub first and only then at the classic resume.
-
-👆 На этом пока всё
