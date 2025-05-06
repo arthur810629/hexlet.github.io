@@ -1,14 +1,4 @@
-[![](https://files.carrotquest.app/knowledge-bases-images/logos/64033/1726575914708-nb7xvabz.png)](/)
-
 [Перейти на сайт](https://ru.hexlet.io)
-
-![article image preview]()
-
-[Все статьи](/)
-
-[En](/category/4316)
-
-The teacher's solution does not work
 
 # The teacher's solution does not work
 
@@ -20,4 +10,3 @@ You can always return the exercise to its original state. To do this, click "Res
 
 ![](https://files.carrotquest.app/knowledge-bases-images/articles/64033/64033-1728571030632-kfxi4w4a.png)
 
-👆 На этом пока всё
