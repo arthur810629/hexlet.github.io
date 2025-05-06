@@ -1,14 +1,4 @@
-[![](https://files.carrotquest.app/knowledge-bases-images/logos/64033/1726575914708-nb7xvabz.png)](/)
-
 [Перейти на сайт](https://ru.hexlet.io)
-
-![article image preview]()
-
-[Все статьи](/)
-
-[En](/category/4316)
-
-I can’t complete practice
 
 # I can’t complete practice
 
@@ -40,5 +30,3 @@ Possible causes:
 * Your environment uses other versions of the language or third-party libraries
 * Your code contains inclusions of other files and/or libraries
 * Your code does the wrong thing
-
-👆 На этом пока всё
