@@ -1,14 +1,4 @@
-[![](https://files.carrotquest.app/knowledge-bases-images/logos/64033/1726575914708-nb7xvabz.png)](/)
-
 [Перейти на сайт](https://ru.hexlet.io)
-
-![article image preview]()
-
-[Все статьи](/)
-
-[En](/category/4316)
-
-Code review
 
 # Code review
 
@@ -50,5 +40,3 @@ You can find a list of all your automatic reviews in your personal profile - "Le
 Projects are automatically tested. For students who are studying with a tutor, tutors do a code review in the site interface. They rely on clear criteria and help improve the project step by step. If the project did not pass the automatic review, the first thing the tutor will do is help you sort out the test failure errors, and teach you how to read and interpret them correctly.
 
 At each iteration, tutors will suggest solutions and ways to cover the topic so that students aren't just writing code, but really understand what to do, how to do it, and why it should be done this way.
-
-👆 На этом пока всё
