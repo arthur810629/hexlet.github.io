@@ -1,14 +1,4 @@
-[![](https://files.carrotquest.app/knowledge-bases-images/logos/64033/1726575914708-nb7xvabz.png)](/)
-
 [Перейти на сайт](https://ru.hexlet.io)
-
-![article image preview]()
-
-[Все статьи](/)
-
-[En](/category/4316)
-
-How to save your solution
 
 # How to save your solution
 
@@ -45,5 +35,3 @@ You can save multiple solutions to the same exercise and switch between them at 
 There are also links to saved solutions in the Courses tab in your profile. To see them, click on the arrow to the right of the course title.
 
 ![](https://files.carrotquest.app/knowledge-bases-images/articles/64033/64033-1728565986000-cwdlgy85.jpeg)
-
-👆 На этом пока всё
