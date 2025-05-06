@@ -1,14 +1,4 @@
-[![](https://files.carrotquest.app/knowledge-bases-images/logos/64033/1726575914708-nb7xvabz.png)](/)
-
 [Перейти на сайт](https://ru.hexlet.io)
-
-![article image preview]()
-
-[Все статьи](/)
-
-[En](/category/4316)
-
-Program Learning Format
 
 # Program Learning Format
 
@@ -118,5 +108,3 @@ If you have any doubts about your tutor's work, write to your community manager 
 We give tutors feedback on their work, but when we receive complaints from students, we respond, up to and including replacing the tutor. There is nothing wrong with demanding the quality of service that we promised you.
 
 * Read more about the career track at: <https://career.hexlet.io/>
-
-👆 На этом пока всё
