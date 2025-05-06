@@ -1,14 +1,4 @@
-[![](https://files.carrotquest.app/knowledge-bases-images/logos/64033/1726575914708-nb7xvabz.png)](/)
-
 [Перейти на сайт](https://ru.hexlet.io)
-
-![article image preview]()
-
-[Все статьи](/)
-
-[En](/category/4316)
-
-How points are awarded
 
 # How points are awarded
 
@@ -22,5 +12,3 @@ Points are awarded for:
 * Passing quiz — 2 points
 * Completing an excercise without looking up the teacher’s solution — 3 points
 * Completing an excercise after looking up the teacher’s solution — 0 points
-
-👆 На этом пока всё
