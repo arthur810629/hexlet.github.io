@@ -63,5 +63,3 @@ Projects are based on the covered material and provide resources for self-study.
 At each step of the project, you can ask questions to [support.](https://help.hexlet.io/en/articles/110025-podderzhka-v-kursakh-i-proektakh) To get a quicker answer, refer to our ["How to ask the right questions?"](https://help.hexlet.io/en/articles/111495-kak-pravilno-zadavat-voprosy) article when writing your question.
 
 You can also ask questions about the project in our [Slack](https://slack.hexlet.io/) in the #hexlet-projects channel - other students will answer you there.
-
-👆 На этом пока всё
