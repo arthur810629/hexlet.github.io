@@ -1,14 +1,4 @@
-[![](https://files.carrotquest.app/knowledge-bases-images/logos/64033/1726575914708-nb7xvabz.png)](/)
-
 [Перейти на сайт](https://ru.hexlet.io)
-
-![article image preview]()
-
-[Все статьи](/)
-
-[En](/category/4316)
-
-Tips for completing projects
 
 # Tips for completing projects
 
@@ -61,5 +51,3 @@ Copying and borrowing other people's code is prohibited by project rules. But th
 The point of a project is to go through the pain and suffering of writing code yourself, to gain refactoring experience based on feedback from a tutor, and to solve unfamiliar problems. Projects help to consolidate acquired knowledge and simulate real programmer experiences.
 
 Cheaters voluntarily deprive themselves of all these opportunities.
-
-👆 На этом пока всё
