@@ -1,14 +1,4 @@
-[![](https://files.carrotquest.app/knowledge-bases-images/logos/64033/1726575914708-nb7xvabz.png)](/)
-
 [Перейти на сайт](https://ru.hexlet.io)
-
-![article image preview]()
-
-[Все статьи](/)
-
-[En](/category/4316)
-
-Onboarding
 
 # Onboarding
 
@@ -144,5 +134,3 @@ We've been through all the steps of getting to know each other! Now you can begi
 If you're unclear about anything, ask questions in the Slack chat.
 
 * [Hexlet Knowledge Base](https://hhelp.carrotquest.help/category/4316) section
-
-👆 На этом пока всё
