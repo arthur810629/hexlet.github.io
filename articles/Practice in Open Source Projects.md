@@ -1,14 +1,4 @@
-[![](https://files.carrotquest.app/knowledge-bases-images/logos/64033/1726575914708-nb7xvabz.png)](/)
-
 [Перейти на сайт](https://ru.hexlet.io)
-
-![article image preview]()
-
-[Все статьи](/)
-
-[En](/category/4316)
-
-Practice in Open Source Projects
 
 # Practice in Open Source Projects
 
@@ -68,5 +58,3 @@ Tell the maintainer and other team members about any difficulties that arise dur
 The team will help you cope with difficulties, but to do this you need to tell them, so do not hesitate to ask for help. This is true not only for technical, but also for organizational problems, be sure to report if you don't have enough time to complete a task or have to give up.
 
 The main method of communication is the #hexlet-volunteers channel in Slack.
-
-👆 На этом пока всё
