@@ -1,14 +1,4 @@
-[![](https://files.carrotquest.app/knowledge-bases-images/logos/64033/1726575914708-nb7xvabz.png)](/)
-
 [Перейти на сайт](https://ru.hexlet.io)
-
-![article image preview]()
-
-[Все статьи](/)
-
-[En](/category/4316)
-
-What is the best way to ask a question about lessons?
 
 # What is the best way to ask a question about lessons?
 
@@ -29,5 +19,3 @@ If you still have questions, create a new topic. Explain what you don't understa
 ![](https://files.carrotquest.app/knowledge-bases-images/articles/64033/64033-1728566801643-f0oznvnw.png)
 
 We'll answer within 2-3 days. Support staff and other students, as well as some of the more experienced people who can help, can see the topics in the Discussion section, and your question and answer will help everyone grasp the lesson's subject better.
-
-👆 На этом пока всё
