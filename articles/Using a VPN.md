@@ -1,14 +1,4 @@
-[![](https://files.carrotquest.app/knowledge-bases-images/logos/64033/1726575914708-nb7xvabz.png)](/)
-
 [Перейти на сайт](https://ru.hexlet.io)
-
-![article image preview]()
-
-[Все статьи](/)
-
-[En](/category/4316)
-
-Using a VPN
 
 # Using a VPN
 
@@ -22,4 +12,3 @@ If the site doesn't work, try connecting via a VPN or proxy, rather than directl
 * [ZenMate](https://zenmate.com/free-vpn)
 * [Private Tunnel](https://www.privatetunnel.com/phome/login/#/Downloads)
 
-👆 На этом пока всё
