@@ -1,14 +1,5 @@
-[![](https://files.carrotquest.app/knowledge-bases-images/logos/64033/1726575914708-nb7xvabz.png)](/)
 
 [Перейти на сайт](https://ru.hexlet.io)
-
-![article image preview]()
-
-[Все статьи](/)
-
-[En](/category/4316)
-
-How the projects work
 
 # How the projects work
 
@@ -37,5 +28,3 @@ In the last step, the project will be checked by automated tests and a linter. I
 If you are studying with a tutor, your project will be checked by a tutor in addition to the auto-check. They will help with things that tests cannot check like pointing out naming errors and logical errors, and suggesting how to improve the application architecture.
 
 As you check and refine your project, you can and should communicate with your tutor, asking questions and discussing your code or any comments.
-
-👆 На этом пока всё
