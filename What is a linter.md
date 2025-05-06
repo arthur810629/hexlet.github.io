@@ -1,14 +1,4 @@
-[![](https://files.carrotquest.app/knowledge-bases-images/logos/64033/1726575914708-nb7xvabz.png)](/)
-
 [Перейти на сайт](https://ru.hexlet.io)
-
-![article image preview]()
-
-[Все статьи](/)
-
-[En](/category/4316)
-
-What is a linter
 
 # What is a linter
 
@@ -27,5 +17,3 @@ The linter notes in exercises are displayed at the bottom of the screen in the L
 To deal with an obscure error, enter its name into the search engine - one of the first links in the output will be the linter site. There is usually a more detailed description of the error, and examples of good and bad code that illustrate it. Fix the code so the linter is happy :)
 
 If you don't understand how to fix the bug, [save](https://help.hexlet.io/en/articles/111135-kod-revyu) your solution and ask a question in the corresponding lesson discussion. Someone from our team will definitely help you.
-
-👆 На этом пока всё
