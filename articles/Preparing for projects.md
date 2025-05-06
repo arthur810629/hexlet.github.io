@@ -1,14 +1,4 @@
-[![](https://files.carrotquest.app/knowledge-bases-images/logos/64033/1726575914708-nb7xvabz.png)](/)
-
 [Перейти на сайт](https://ru.hexlet.io)
-
-![article image preview]()
-
-[Все статьи](/)
-
-[En](/category/4316)
-
-Preparing for projects
 
 # Preparing for projects
 
@@ -59,5 +49,3 @@ We recommend using the completely free [VS Code](https://code.visualstudio.com/)
 # Programming Language
 
 Make sure that you have the current version of the interpreter installed. Be sure to check the official documentation, as operating system repositories often contain outdated versions.
-
-👆 На этом пока всё
