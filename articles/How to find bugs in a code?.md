@@ -1,14 +1,4 @@
-[![](https://files.carrotquest.app/knowledge-bases-images/logos/64033/1726575914708-nb7xvabz.png)](/)
-
 [Перейти на сайт](https://ru.hexlet.io)
-
-![article image preview]()
-
-[Все статьи](/)
-
-[En](/category/4316)
-
-How to find bugs in a code?
 
 # How to find bugs in a code?
 
@@ -55,5 +45,3 @@ There's a huge variety of errors that might occur during the development process
 Also, the errors contain backtrace output, which allows us to identify where exactly the error has occured in order for us to try and analyze it.
 
 Many of these errors are easily fixed by debugging.
-
-👆 На этом пока всё
