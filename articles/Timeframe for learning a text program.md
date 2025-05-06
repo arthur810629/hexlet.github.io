@@ -1,14 +1,4 @@
-[![](https://files.carrotquest.app/knowledge-bases-images/logos/64033/1726575914708-nb7xvabz.png)](/)
-
 [Перейти на сайт](https://ru.hexlet.io)
-
-![article image preview]()
-
-[Все статьи](/)
-
-[En](/category/4316)
-
-Timeframe for learning a text program
 
 # Timeframe for learning a text program
 
@@ -78,5 +68,3 @@ If you missed a few days of learning for any reason, don't worry. Write to your 
 There are always moments of slowing down or speeding up as you learn. Technical debt and the wrong approach often inhibit learning. But there are also life situations that throw you off your game. We always go out of our way to help students get to the end and overcome any difficulties.
 
 So talk to your tutor and community manager as soon as problems appear, so they don't snowball and pile up.
-
-👆 На этом пока всё
