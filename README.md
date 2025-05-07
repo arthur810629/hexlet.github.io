@@ -1,6 +1,6 @@
 # hexlet.github.io
 
-* [Комьюнити и медиа]([categories/С чего начать.md](https://github.com/Vku17/hexlet.github.io/blob/main/categories/%D0%9A%D0%BE%D0%BC%D1%8C%D1%8E%D0%BD%D0%B8%D1%82%D0%B8%20%D0%B8%20%D0%BC%D0%B5%D0%B4%D0%B8%D0%B0.md#%D0%BA%D0%BE%D0%BC%D1%8C%D1%8E%D0%BD%D0%B8%D1%82%D0%B8-%D0%B8-%D0%BC%D0%B5%D0%B4%D0%B8%D0%B0))
+* [Комьюнити и медиа](categories/Комьюнити и медиа.md)
 * [С чего начать](categories/С чего начать.md)
 * [Форматы обучения](categories/Форматы обучения.md)
 * [text](categories/4302.md)
