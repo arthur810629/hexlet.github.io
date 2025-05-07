@@ -2,8 +2,7 @@ title: Хекслет.Поддержка
 description: Как работает Хекслет и связанные с этим вопросы
 baseurl: ""
 url: "https://hexlet.github.io"
-include:
-remote_theme: minima
+theme: minima
 markdown: kramdown
 encoding: utf-8
 sass:
