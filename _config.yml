@@ -5,7 +5,7 @@ url: "https://hexlet.github.io"
 include:
   - articles/*.md
   - categories/*.md
-theme: minima
+theme: just-the-docs
 markdown: kramdown
 encoding: utf-8
 sass:
