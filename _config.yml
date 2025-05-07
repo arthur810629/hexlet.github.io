@@ -3,7 +3,10 @@ description: Как работает Хекслет и связанные с э�
 baseurl: ""
 url: "https://hexlet.github.io"
 include:
-  - articles
-  - categories
-theme: minimal
+  - articles/*.md
+  - categories/*.md
+theme: minima
 markdown: kramdown
+encoding: utf-8
+sass:
+  quiet_deps: true
