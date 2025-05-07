@@ -5,5 +5,5 @@ url: "https://hexlet.github.io"
 include:
   - articles
   - categories
-theme: minima
+theme: minimal
 markdown: kramdown
