@@ -1,4 +1,7 @@
 title: Хекслет.Поддержка
 description: Как работает Хекслет и связанные с этим вопросы
+baseurl: ""
+url: https://hexlet.guides.io
 theme: minima
-markdown: kramdown
+kramdown:
+  input: kramdown
