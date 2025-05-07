@@ -1,6 +1,6 @@
 title: Хекслет.Поддержка
 description: Как работает Хекслет и связанные с этим вопросы
-baseurl: ""
+baseurl: "/"
 url: https://hexlet.guides.io
 include:
   - articles
