@@ -1,8 +1,8 @@
 # hexlet.github.io
 
 * [Комьюнити и медиа](categories/Комьюнити и медиа.md)
-* [С чего начать](categories/4293.md)
-* [Форматы обучения](categories/4295.md)
+* [С чего начать](categories/С чего начать.md)
+* [Форматы обучения](categories/Форматы обучения.md)
 * [text](categories/4302.md)
 * [text](categories/4303.md)
 * [text](categories/4305.md)
