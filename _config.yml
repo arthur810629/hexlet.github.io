@@ -1,3 +1,4 @@
 title: Хекслет.Поддержка
 description: Как работает Хекслет и связанные с этим вопросы
 theme: minima
+markdown: kramdown
