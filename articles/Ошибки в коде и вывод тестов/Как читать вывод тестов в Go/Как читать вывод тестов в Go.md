@@ -28,7 +28,7 @@
 
 Это сообщение выглядит так:
 
-![](https://files.carrotquest.app/knowledge-bases-images/articles/64033/64033-1732284026113-667btc9i.png)
+![](./assets/go-error-compilation.png)
 
 Сообщение об ошибке содержит:
 
@@ -46,7 +46,7 @@
 
 Вывод такой ошибки будет выглядеть как:
 
-![](https://files.carrotquest.app/knowledge-bases-images/articles/64033/64033-1732284036341-soo2dmx6.png)
+![](./assets/corutine-errors.png)
 
 Если описания недостаточно, всегда можно обратиться к документации, в которой описаны случаи возникновения тех или иных ошибок.
 
